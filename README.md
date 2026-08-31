@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing GitHub Flow.
+Hi My name is Will Dellinger I am studying cs at FAU and am 22. 
